@@ -179,5 +179,9 @@ WHERE purch_amt BETWEEN 500 AND 4000 AND purch_amt NOT IN (948.50,1983.43)
 
 ![image](https://github.com/user-attachments/assets/b1b5742d-a4e5-4a41-af39-6b53c4e1ffb9)
 
+**Final Grade**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e74444ad-91ab-4e5e-ace4-71aacfa64dee" />
+
+
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
